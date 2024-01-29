@@ -1,0 +1,9 @@
+[submodule "Lab1_Bitwise_and_pointers-Solution"]
+	path = Lab1_Bitwise_and_pointers-Solution
+	url = https://github.com/RobertJAlvarez/Lab1_Bitwise_and_pointers-Solution.git
+[submodule "Lab2.1-Arrays-Solution"]
+	path = Lab2.1-Arrays-Solution
+	url = https://github.com/RobertJAlvarez/Lab2.1-Arrays-Solution.git
+[submodule "Lab2.2-Memory-Solution"]
+	path = Lab2.2-Memory-Solution
+	url = https://github.com/RobertJAlvarez/Lab2.2-Memory-Solution.git
