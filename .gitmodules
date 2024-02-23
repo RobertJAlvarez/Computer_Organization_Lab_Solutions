@@ -7,3 +7,6 @@
 [submodule "Lab2.2-Memory-Solution"]
 	path = Lab2.2-Memory-Solution
 	url = https://github.com/RobertJAlvarez/Lab2.2-Memory-Solution.git
+[submodule "Lab2.2-RV32_Interpreter-Solution"]
+	path = Lab2.2-RV32_Interpreter-Solution
+	url = https://github.com/RobertJAlvarez/Lab2.2-RV32_Interpreter-Solution.git
