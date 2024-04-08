@@ -10,3 +10,6 @@
 [submodule "Lab2.2-RV32_Interpreter-Solution"]
 	path = Lab2.2-RV32_Interpreter-Solution
 	url = https://github.com/RobertJAlvarez/Lab2.2-RV32_Interpreter-Solution.git
+[submodule "Lab3-Expression_Compiler-Solution"]
+	path = Lab3-Expression_Compiler-Solution
+	url = https://github.com/RobertJAlvarez/Lab3-Expression_Compiler-Solution.git
